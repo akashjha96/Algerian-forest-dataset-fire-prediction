@@ -1,1 +1,1 @@
-# Algerian-forest-dataset-fire-prediction
+# Algerian_forest_Dataset
